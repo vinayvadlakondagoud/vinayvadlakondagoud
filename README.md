@@ -65,10 +65,54 @@ recent_ships:
 | **Portfolio** | Developer portfolio with interactive 3D hero built on Spline, cinematic blue/violet grading, fully responsive | `React 19` `Spline 3D` `Tailwind CSS v4` `Framer Motion` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinayvadlakondagoud/portfolio) [![Live](https://img.shields.io/badge/Live-22d3ee?style=flat-square&logo=vercel&logoColor=black)](https://portfolio-topaz-nine-91.vercel.app/) |
 | **Resume Screening** | Paste a job description, upload resumes (PDF/DOC/DOCX) → each candidate scored 0–100 with ranked results | `Next.js` `FastAPI` `PostgreSQL` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinayvadlakondagoud/Resume_Screening) [![Live](https://img.shields.io/badge/Live-22d3ee?style=flat-square&logo=render&logoColor=black)](https://resume-screening-frontend-1gcw.onrender.com) |
 | **NotesApp** | Full-stack notes management: CRUD, search, auth, responsive UI | `React` `Node.js` `Express.js` `MongoDB` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinayvadlakondagoud/NotesApp) [![Live](https://img.shields.io/badge/Live-22d3ee?style=flat-square&logo=render&logoColor=black)](https://notesapp-g47d.onrender.com) |
-| **VinSync Music** | Music player with global music discovery | `JavaScript` `HTML` `CSS` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinayvadlakondagoud/vinsync-music) |
-| **MoviesWeb** | Explore, manage & review movies — industry filtering, admin dashboard, real-time interactions | `JavaScript` `Node.js` `Express.js` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinayvadlakondagoud/moviesweb) |
-| **Hostel Management System** | Hostel booking & management with auth, feedback, messaging — deployed on Render | `Node.js` `MySQL` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinayvadlakondagoud/hostel-management-system) [![Live](https://img.shields.io/badge/Live-22d3ee?style=flat-square&logo=render&logoColor=black)](https://hostel-management-system-1-3c10.onrender.com) |
-| **Rental Management System** | Browse, list & book rental properties with secure auth and admin approval workflow | `Python` `Flask` `MySQL` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinayvadlakondagoud/rental-management-system) |
+
+---
+
+## 🎬 Now Showing
+
+*The marquee — what I'm working on right now.*
+
+<div align="center">
+
+| Poster | Title | Status |
+|--------|-------|--------|
+| 🎥 | **ALLU ARJUN FANVERSE** — cinematic tribute · Next.js 16 · Three.js · scroll-storytelling | 🔥 **NOW SHOWING** |
+| 📚 | **LEARNHUB LMS** — React · Spring Boot · MySQL · payments · live sessions | ⭐ **FEATURED** |
+| 📄 | **RESUME SCREENING** — Next.js · FastAPI · PostgreSQL | ✅ **LIVE NOW** |
+| 🎵 | **VINSYNC MUSIC** — global music discovery | 🎧 **IN REHEARSAL** |
+
+</div>
+
+---
+
+<details>
+<summary><b>📦 More projects — the back catalogue</b></summary>
+
+<br/>
+
+| Project | Stack | Links |
+|---------|-------|-------|
+| **VinSync Music** — music player with global music discovery | `JavaScript` `HTML` `CSS` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinayvadlakondagoud/vinsync-music) |
+| **MoviesWeb** — explore, manage & review movies with industry filtering + admin dashboard | `JavaScript` `Node.js` `Express.js` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinayvadlakondagoud/moviesweb) |
+| **Hostel Management System** — auth, feedback, messaging — live on Render | `Node.js` `MySQL` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinayvadlakondagoud/hostel-management-system) [![Live](https://img.shields.io/badge/Live-22d3ee?style=flat-square&logo=render&logoColor=black)](https://hostel-management-system-1-3c10.onrender.com) |
+| **Rental Management System** — browse, list & book properties with admin approval | `Python` `Flask` `MySQL` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinayvadlakondagoud/rental-management-system) |
+| **Centre Lead Tracker** — lead management tracker | `JavaScript` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinayvadlakondagoud/centre-lead-tracker) |
+
+</details>
+
+---
+
+## 🕘 Latest on GitHub
+
+*Auto-updates every 6 hours via GitHub Actions.*
+
+<!-- LATEST_COMMITS:START -->
+- **vinayvadlakondagoud** — Add LearnHub LMS to featured projects ([commit](https://github.com/vinayvadlakondagoud/vinayvadlakondagoud/commit/ddbdd9d3af5c7f96776795d5706a7a84e5fd5f45))
+- **alluarjun-fanverse** — Rebuild PhotoGallery as a 3D coverflow exhibition stage ([commit](https://github.com/vinayvadlakondagoud/alluarjun-fanverse/commit/70a264277efee65902a4ee4b3788f6bd84f75d0e))
+- **NotesApp** — Remove node_modules from tracking ([commit](https://github.com/vinayvadlakondagoud/NotesApp/commit/e64ccc514c51d480f6c4e05f91178f8940bb97a8))
+- **vinsync-music** — Remove downloaded audio files and move Cloudinary creds to env vars ([commit](https://github.com/vinayvadlakondagoud/vinsync-music/commit/fbfe9d3072bd80d06579336aab5448753d2b0e85))
+- **Resume_Screening** — Remove empty build_err.txt artifact ([commit](https://github.com/vinayvadlakondagoud/Resume_Screening/commit/46e4f10224b2cdcc1ee0f1fe20824d403e6f87ed))
+<!-- LATEST_COMMITS:END -->
 
 ---
 
@@ -78,6 +122,8 @@ recent_ships:
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=vinayvadlakondagoud&theme=onedark&no-bg=true&no-frame=true&margin-w=8&margin-h=8)](https://github.com/vinayvadlakondagoud)
 
+<img src="https://metrics.lecoq.io/vinayvadlakondagoud?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=6&languages.sections=most-used&languages.colors=github&achievements=1&achievements.display=compact&habits=1&habits.days=14&habits.facts=true" width="520" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=vinayvadlakondagoud&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" height="150" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayvadlakondagoud&theme=github_dark&hide_border=true" height="150" />
@@ -85,6 +131,21 @@ recent_ships:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayvadlakondagoud&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="130" />
 
 </div>
+
+---
+
+## ⏱️ Live Coding Stats
+
+*Coming soon — real coding hours tracked by [WakaTime](https://wakatime.com).*
+
+To enable:
+1. Create a free account at [wakatime.com](https://wakatime.com)
+2. Install the **WakaTime** extension in VS Code (or your editor) and log in
+3. Send me your WakaTime username — the badge goes here:
+
+```
+<img src="https://wakatime.com/badge/user/YOUR-USERNAME.svg" alt="Total time coded" />
+```
 
 ---
 
