@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vinay Vadlakonda Goud
+# Vinay Vadlakonda
 
 ### Full Stack Developer — building cinematic web experiences
 
@@ -24,7 +24,7 @@ Full Stack Developer who ships complete products — from pixel-perfect React fr
 - Open to full-time roles and interesting collaborations
 
 ```yaml
-name: Vinay Vadlakonda Goud
+name: Vinay Vadlakonda
 role: Full Stack Developer
 current_focus: Next.js 16 | Three.js | Framer Motion | Lenis
 recent_ships:
