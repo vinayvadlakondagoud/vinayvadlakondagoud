@@ -126,29 +126,6 @@ recent_ships:
 
 <img src="https://github-readme-stats.vercel.app/api?username=vinayvadlakondagoud&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" height="150" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayvadlakondagoud&theme=github_dark&hide_border=true" height="150" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayvadlakondagoud&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="130" />
-
-</div>
-
----
-
-## ⏱️ Live Coding Stats
-
-*Coming soon — real coding hours tracked by [WakaTime](https://wakatime.com).*
-
-To enable:
-1. Create a free account at [wakatime.com](https://wakatime.com)
-2. Install the **WakaTime** extension in VS Code (or your editor) and log in
-3. Send me your WakaTime username — the badge goes here:
-
-```
-<img src="https://wakatime.com/badge/user/YOUR-USERNAME.svg" alt="Total time coded" />
-```
-
----
-
 ## 🎯 What's Next
 
 - Polish & ship the Allu Arjun Fanverse (scroll-storytelling + 3D coverflow gallery)
