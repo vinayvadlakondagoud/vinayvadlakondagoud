@@ -122,9 +122,21 @@ recent_ships:
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=vinayvadlakondagoud&theme=onedark&no-bg=true&no-frame=true&margin-w=8&margin-h=8)](https://github.com/vinayvadlakondagoud)
 
-<img src="https://metrics.lecoq.io/vinayvadlakondagoud?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=6&languages.sections=most-used&languages.colors=github&achievements=1&achievements.display=compact&habits=1&habits.days=14&habits.facts=true" width="520" />
-
 <img src="https://github-readme-stats.vercel.app/api?username=vinayvadlakondagoud&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" height="150" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayvadlakondagoud&theme=github_dark&hide_border=true" height="150" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayvadlakondagoud&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="130" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayvadlakondagoud&theme=github-dark" width="100%" alt="Commit activity graph" />
+
+</div>
+
+---
 
 ## 🎯 What's Next
 
