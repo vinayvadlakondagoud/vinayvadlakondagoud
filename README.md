@@ -29,6 +29,7 @@ role: Full Stack Developer
 current_focus: Next.js 16 | Three.js | Framer Motion | Lenis
 recent_ships:
   - Allu Arjun Fanverse (Next.js 16 + Three.js)
+  - LearnHub LMS (React + Spring Boot + MySQL)
   - Resume Screening (Next.js + FastAPI + PostgreSQL)
   - NotesApp (React + Node.js + Express + MongoDB)
 ```
@@ -60,6 +61,7 @@ recent_ships:
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
 | **Allu Arjun Fanverse** | Cinematic fan tribute site: scroll-storytelling chapters, 3D coverflow gallery, smooth Lenis scrolling, mobile-first | `Next.js 16` `Three.js` `TypeScript` `Framer Motion` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinayvadlakondagoud/alluarjun-fanverse) |
+| **LearnHub** | Full-stack Learning Management System (LMS): Student / Instructor / Admin roles, real-time live sessions (WebRTC + WebSockets), Razorpay payments, auto-graded assessments, PDF certificates, recommendations | `React` `Spring Boot` `Java` `MySQL` `WebSockets` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinayvadlakondagoud/learnhub) |
 | **Portfolio** | Developer portfolio with interactive 3D hero built on Spline, cinematic blue/violet grading, fully responsive | `React 19` `Spline 3D` `Tailwind CSS v4` `Framer Motion` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinayvadlakondagoud/portfolio) [![Live](https://img.shields.io/badge/Live-22d3ee?style=flat-square&logo=vercel&logoColor=black)](https://portfolio-topaz-nine-91.vercel.app/) |
 | **Resume Screening** | Paste a job description, upload resumes (PDF/DOC/DOCX) → each candidate scored 0–100 with ranked results | `Next.js` `FastAPI` `PostgreSQL` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinayvadlakondagoud/Resume_Screening) [![Live](https://img.shields.io/badge/Live-22d3ee?style=flat-square&logo=render&logoColor=black)](https://resume-screening-frontend-1gcw.onrender.com) |
 | **NotesApp** | Full-stack notes management: CRUD, search, auth, responsive UI | `React` `Node.js` `Express.js` `MongoDB` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinayvadlakondagoud/NotesApp) [![Live](https://img.shields.io/badge/Live-22d3ee?style=flat-square&logo=render&logoColor=black)](https://notesapp-g47d.onrender.com) |
