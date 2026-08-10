@@ -120,8 +120,6 @@ recent_ships:
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=vinayvadlakondagoud&theme=onedark&no-bg=true&no-frame=true&margin-w=8&margin-h=8)](https://github.com/vinayvadlakondagoud)
-
 <img src="https://github-readme-stats.vercel.app/api?username=vinayvadlakondagoud&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" height="150" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayvadlakondagoud&theme=github_dark&hide_border=true" height="150" />
