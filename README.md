@@ -107,11 +107,11 @@ recent_ships:
 *Auto-updates every 6 hours via GitHub Actions.*
 
 <!-- LATEST_COMMITS:START -->
-- **vinayvadlakondagoud** — chore: refresh latest commits ([commit](https://github.com/vinayvadlakondagoud/vinayvadlakondagoud/commit/024a6df38a6c558e4729449989dd58b4b424b736))
+- **moviesweb** — Merge remote-tracking branch 'origin/main' ([commit](https://github.com/vinayvadlakondagoud/moviesweb/commit/f0a4e3a34f8d935a83e9d145415def76825572cb))
+- **vinayvadlakondagoud** — chore: refresh latest commits ([commit](https://github.com/vinayvadlakondagoud/vinayvadlakondagoud/commit/fb06116a654be7fef0cc8a810de17804f0df2c6e))
 - **alluarjun-fanverse** — Rebuild PhotoGallery as a 3D coverflow exhibition stage ([commit](https://github.com/vinayvadlakondagoud/alluarjun-fanverse/commit/70a264277efee65902a4ee4b3788f6bd84f75d0e))
 - **NotesApp** — Remove node_modules from tracking ([commit](https://github.com/vinayvadlakondagoud/NotesApp/commit/e64ccc514c51d480f6c4e05f91178f8940bb97a8))
 - **vinsync-music** — Remove downloaded audio files and move Cloudinary creds to env vars ([commit](https://github.com/vinayvadlakondagoud/vinsync-music/commit/fbfe9d3072bd80d06579336aab5448753d2b0e85))
-- **Resume_Screening** — Remove empty build_err.txt artifact ([commit](https://github.com/vinayvadlakondagoud/Resume_Screening/commit/46e4f10224b2cdcc1ee0f1fe20824d403e6f87ed))
 <!-- LATEST_COMMITS:END -->
 
 ---
