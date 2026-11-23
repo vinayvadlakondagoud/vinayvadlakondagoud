@@ -107,11 +107,11 @@ recent_ships:
 *Auto-updates every 6 hours via GitHub Actions.*
 
 <!-- LATEST_COMMITS:START -->
-- **vinayvadlakondagoud** — chore: refresh latest commits ([commit](https://github.com/vinayvadlakondagoud/vinayvadlakondagoud/commit/84ad100d3b0f63955c8bb43cdfe68a094aeb106d))
+- **portfolio** — Sync portfolio content with latest resume and live site URL ([commit](https://github.com/vinayvadlakondagoud/portfolio/commit/fae0b3a5f2e563186cd41f62835d127c02d06e3b))
+- **NotesApp** — Enhance home page hero and background styling ([commit](https://github.com/vinayvadlakondagoud/NotesApp/commit/2edc8d1534f931f31b52fc9f5e8efeee4bffc516))
+- **vinayvadlakondagoud** — chore: refresh latest commits ([commit](https://github.com/vinayvadlakondagoud/vinayvadlakondagoud/commit/ffa02d23f7c10c9a590ddb0bec7af7f9672e7381))
 - **moviesweb** — Merge remote-tracking branch 'origin/main' ([commit](https://github.com/vinayvadlakondagoud/moviesweb/commit/f0a4e3a34f8d935a83e9d145415def76825572cb))
 - **alluarjun-fanverse** — Rebuild PhotoGallery as a 3D coverflow exhibition stage ([commit](https://github.com/vinayvadlakondagoud/alluarjun-fanverse/commit/70a264277efee65902a4ee4b3788f6bd84f75d0e))
-- **NotesApp** — Remove node_modules from tracking ([commit](https://github.com/vinayvadlakondagoud/NotesApp/commit/e64ccc514c51d480f6c4e05f91178f8940bb97a8))
-- **vinsync-music** — Remove downloaded audio files and move Cloudinary creds to env vars ([commit](https://github.com/vinayvadlakondagoud/vinsync-music/commit/fbfe9d3072bd80d06579336aab5448753d2b0e85))
 <!-- LATEST_COMMITS:END -->
 
 ---
